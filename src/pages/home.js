@@ -19,7 +19,7 @@ function Home() {
 
   const getAllData = async () => {
     const BASE_URL = "http://localhost:3030/gitar/query";
-    // const BASE_URL = " https://ac54febc2a77.ngrok.io/repo-codes/query";
+    
 
     const headers = {
       Accept: "application/sparql-results+json,*/*;q=0.9",
@@ -124,13 +124,7 @@ function Home() {
       Jenis: codes.Jenis.value,
       Senar: codes.Senar.value,
 
-      // author: codes.author.value,
-      // url: codes.url.value,
-      // download: codes.download.value,
-      // category: codes.category.value,
-      // language: codes.language.value,
-      // framework: codes.framework.value,
-      // year: codes.year.value,
+
     };
   };
 
