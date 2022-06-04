@@ -64,7 +64,7 @@ function Home() {
 
   const getData = async () => {
     const BASE_URL = "http://localhost:3030/gitar/query";
-    // const BASE_URL = " https://ac54febc2a77.ngrok.io/repo-codes/query";
+
 
     const headers = {
       Accept: "application/sparql-results+json,*/*;q=0.9",
