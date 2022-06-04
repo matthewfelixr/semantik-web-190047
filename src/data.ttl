@@ -1,0 +1,114 @@
+@prefix id: <https://guitarstore.com/> .
+@prefix item: <https://guitarstore.com/ns/item#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+#item
+
+id:A01
+    item:NamaGitar      "YAMAHA C315" ;
+    item:Merk           "YAMAHA" ;
+    item:Harga          "Rp 930.000,-" ;
+    item:Jenis          "Classic" ;
+    item:Senar          "Nylon" .
+
+
+id:A02
+    item:NamaGitar      "CORT AC 100 OP" ;
+    item:Merk           "CORT" ;
+    item:Harga          "Rp 1.490.000,-" ;
+    item:Jenis          "Classic" ;
+    item:Senar          "Nylon" .
+
+
+id:A03
+    item:NamaGitar      "CORT AC 100 OP" ;
+    item:Merk           "CORT" ;
+    item:Harga          "Rp 1.490.000,-" ;
+    item:Jenis          "Classic" ;
+    item:Senar          "Nylon" .
+
+id:A04
+    item:NamaGitar      "CORT AC 120CE OP" ;
+    item:Merk           "CORT" ;
+    item:Harga          "Rp 2.099.000,-" ;
+    item:Jenis          "Akustik Elektrik" ;
+    item:Senar          "Nylon" .
+
+
+id:A05
+    item:NamaGitar      "YAMAHA C40" ;
+    item:Merk           "YAMAHA" ;
+    item:Harga          "Rp 1.199.000,-" ;
+    item:Jenis          "Classic" ;
+    item:Senar          "Nylon" .
+
+id:A06
+    item:NamaGitar      "YAMAHA JR1" ;
+    item:Merk           "YAMAHA" ;
+    item:Harga          "Rp 1.260.000,-" ;
+    item:Jenis          "Akustik" ;
+    item:Senar          "String" .
+
+id:A07
+    item:NamaGitar      "FENDER CD60 CE" ;
+    item:Merk           "FENDER" ;
+    item:Harga          "Rp 3.760.000,-" ;
+    item:Jenis          "Akustik Elektrik" ;
+    item:Senar          "String" .
+
+id:A08
+    item:NamaGitar      "STRATOCASTER SST10" ;
+    item:Merk           "STINGER" ;
+    item:Harga          "Rp 1.105.000,-" ;
+    item:Jenis          "Elektrik" ;
+    item:Senar          "String" .
+
+
+id:A09
+    item:NamaGitar      "YAMAHA Pacifica PAC112V" ;
+    item:Merk           "YAMAHA" ;
+    item:Harga          "Rp 3.570.000,-" ;
+    item:Jenis          "Elektrik" ;
+    item:Senar          "String" .
+
+id:A10
+    item:NamaGitar      "TAYLOR Baby Mahogany BT2E" ;
+    item:Merk           "Taylor" ;
+    item:Harga          "Rp 7.468.000,-" ;
+    item:Jenis          "Akustik Elektrik" ;
+    item:Senar          "String" .
+
+id:A11
+    item:NamaGitar      "IBANEZ AEG8TNE" ;
+    item:Merk           "IBANEZ" ;
+    item:Harga          "Rp 2.350.000,-" ;
+    item:Jenis          "Akustik Elektrik" ;
+    item:Senar          "String" .
+
+id:A12
+    item:NamaGitar      "YAMAHA F310P" ;
+    item:Merk           "YAMAHA" ;
+    item:Harga          "Rp 1.330.000,-" ;
+    item:Jenis          "Akustik" ;
+    item:Senar          "String" .
+
+id:A13
+    item:NamaGitar      "EPIPHONE Les Paul Standard 60s" ;
+    item:Merk           "EPIPHONE" ;
+    item:Harga          "Rp 8.300.000,-" ;
+    item:Jenis          "Elektrik" ;
+    item:Senar          "String" .
+
+id:A14
+    item:NamaGitar      "FENDER Player Stratocaster" ;
+    item:Merk           "FENDER" ;
+    item:Harga          "Rp 13.200.000,-" ;
+    item:Jenis          "Elektrik" ;
+    item:Senar          "String" .
+
+id:A15
+    item:NamaGitar      "IBANEZ AS73" ;
+    item:Merk           "YAMAHA" ;
+    item:Harga          "Rp 930.000,-" ;
+    item:Jenis          "Akustik" ;
+    item:Senar          "String" .
