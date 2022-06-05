@@ -13,9 +13,9 @@ id:A01
 
 
 id:A02
-    item:NamaGitar      "CORT AC 100 OP" ;
+    item:NamaGitar      "CORT AC 150 OP" ;
     item:Merk           "CORT" ;
-    item:Harga          "Rp 1.490.000,-" ;
+    item:Harga          "Rp 1.890.000,-" ;
     item:Jenis          "Classic" ;
     item:Senar          "Nylon" .
 
@@ -108,7 +108,7 @@ id:A14
 
 id:A15
     item:NamaGitar      "IBANEZ AS73" ;
-    item:Merk           "YAMAHA" ;
+    item:Merk           "IBANEZ" ;
     item:Harga          "Rp 930.000,-" ;
-    item:Jenis          "Akustik" ;
+    item:Jenis          "Elektrik" ;
     item:Senar          "String" .

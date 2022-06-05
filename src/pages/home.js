@@ -30,7 +30,7 @@ function Home() {
       query: `PREFIX id: <https://guitarstore.com/> 
       PREFIX item: <https://guitarstore.com/ns/item#> 
       PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
-      SELECT ?NamaGitar ?Merk ?Harga ?Jenis ?Senar WHERE {
+      SELECT * WHERE {
         ?sub item:NamaGitar ?NamaGitar .
         ?sub item:Merk ?Merk .
         ?sub item:Harga ?Harga .
@@ -156,6 +156,7 @@ function Home() {
     <div className="App">
      <div className='container-banner'>
        <h1 className='store-title'>GUITAR STORE</h1>
+       
      <form
        className="search-bar"
        onSubmit={(e) => e.preventDefault()}
@@ -202,7 +203,11 @@ function Home() {
         {content}
         </table>
         </div>
+        <div className='footer'>
+        <h2>By : 140810190047 - Matthew Felix R.</h2>
+        </div>
     </div>
+    
   );
 }
 
